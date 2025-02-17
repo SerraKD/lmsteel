@@ -1,0 +1,45 @@
+{% extends 'main/base.html' %}
+{% load i18n %}
+{% block content %}
+<!-- About page start -->
+<section class="about section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="about-img">
+          <img class="img-fluid about-img rounded" src="/static/images/about.jpg" />
+        </div>
+      </div>
+      <div class="col-lg-6 mt-5 mt-lg-0">
+        <div class="pl-0 pl-lg-4">
+          <h1 class="about-h1">About LM STAIRS</h1>
+          <p>
+            Founded in 1985, LM STAIRS has grown into a global leader in the
+            design and fabrication of luxury metal staircases. With headquarters
+            in London and multiple state-of-the-art production facilities, our
+            extensive teams of experienced engineers, designers, and installers
+            have delivered innovative, bespoke solutions for prestigious clients
+            worldwide.
+          </p>
+          <p>
+            Our commitment to quality, precision, and innovation is reflected in
+            every project. Using the latest 3D laser measurement technology and
+            advanced CAD systems, we create detailed fabrication drawings and
+            execute projects to the highest standards. We focus our activities
+            on London and its surrounding areas (including Westminster, Camden,
+            Kensington, Islington, and the City of London), but we operate
+            internationally and serve clients around the globe.
+          </p>
+          <p>
+            At LM STAIRS, we combine traditional craftsmanship with cutting-edge
+            technology, ensuring our clients receive the finest bespoke
+            staircase solutions available.
+          </p>
+          <a href="{% url 'contact' %}" class="btn btn-small contact-button">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- About page end -->
+{% endblock %}
