@@ -1,0 +1,776 @@
+# LM STAIRS
+# Copyright (C) 2025 Serra Kir Dworczak
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR serrakir@gmail, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME serrakir@gmail\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: steelbusiness/templates/steelbusiness/about.html:15
+msgid "About LM STAIRS"
+msgstr "About LM STAIRS"
+
+#: steelbusiness/templates/steelbusiness/about.html:17
+msgid ""
+"Founded in 1985, LM STAIRS has grown into a global leader in the\n"
+"            design and fabrication of luxury metal staircases. With "
+"headquarters\n"
+"            in London and multiple state-of-the-art production facilities, "
+"our\n"
+"            extensive teams of experienced engineers, designers, and "
+"installers\n"
+"            have delivered innovative, bespoke solutions for prestigious "
+"clients\n"
+"            worldwide."
+msgstr ""
+"Founded in 1985, LM STAIRS has grown into a global leader in the\n"
+"            design and fabrication of luxury metal staircases. With "
+"headquarters\n"
+"            in London and multiple state-of-the-art production facilities, "
+"our\n"
+"            extensive teams of experienced engineers, designers, and "
+"installers\n"
+"            have delivered innovative, bespoke solutions for prestigious "
+"clients\n"
+"            worldwide."
+
+#: steelbusiness/templates/steelbusiness/about.html:25
+msgid ""
+"Our commitment to quality, precision, and innovation is reflected in\n"
+"            every project. Using the latest 3D laser measurement technology "
+"and\n"
+"            advanced CAD systems, we create detailed fabrication drawings "
+"and\n"
+"            execute projects to the highest standards. We focus our "
+"activities\n"
+"            on London and its surrounding areas (including Westminster, "
+"Camden,\n"
+"            Kensington, Islington, and the City of London), but we operate\n"
+"            internationally and serve clients around the globe."
+msgstr ""
+"Our commitment to quality, precision, and innovation is reflected in\n"
+"            every project. Using the latest 3D laser measurement technology "
+"and\n"
+"            advanced CAD systems, we create detailed fabrication drawings "
+"and\n"
+"            execute projects to the highest standards. We focus our "
+"activities\n"
+"            on London and its surrounding areas (including Westminster, "
+"Camden,\n"
+"            Kensington, Islington, and the City of London), but we operate\n"
+"            internationally and serve clients around the globe."
+
+#: steelbusiness/templates/steelbusiness/about.html:34
+msgid ""
+"At LM STAIRS, we combine traditional craftsmanship with cutting-edge\n"
+"            technology, ensuring our clients receive the finest bespoke\n"
+"            staircase solutions available."
+msgstr ""
+"At LM STAIRS, we combine traditional craftsmanship with cutting-edge\n"
+"            technology, ensuring our clients receive the finest bespoke\n"
+"            staircase solutions available."
+
+#: steelbusiness/templates/steelbusiness/about.html:38
+#: steelbusiness/views.py:39
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: steelbusiness/templates/steelbusiness/contact.html:13
+#, fuzzy
+#| msgid "Contact Us"
+msgid "Contact us"
+msgstr "Contact Us"
+
+#: steelbusiness/templates/steelbusiness/contact.html:16
+msgid "For inquiries regarding our products or services, please contact us:"
+msgstr "For inquiries regarding our products or services, please contact us:"
+
+#: steelbusiness/templates/steelbusiness/contact.html:19
+msgid "We can assist you in English, Polish, and Mandarin."
+msgstr "We can assist you in English, Polish, and Mandarin."
+
+#: steelbusiness/templates/steelbusiness/faq.html:11 steelbusiness/views.py:34
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+#: steelbusiness/templates/steelbusiness/faq.html:13
+msgid ""
+"You can find answers to frequently askes questions\n"
+"           below."
+msgstr ""
+"You can find answers to frequently askes questions\n"
+"           below."
+
+#: steelbusiness/templates/steelbusiness/faq.html:48
+msgid "What materials are used in LM STAIRS' metal staircases?"
+msgstr "What materials are used in LM STAIRS' metal staircases?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:58
+msgid ""
+"Our staircases are crafted using high-quality, durable\n"
+"                    metals such as stainless steel, aluminum, and custom "
+"alloys,\n"
+"                    ensuring longevity and a sleek, modern appearance."
+msgstr ""
+"Our staircases are crafted using high-quality, durable\n"
+"                    metals such as stainless steel, aluminum, and custom "
+"alloys,\n"
+"                    ensuring longevity and a sleek, modern appearance."
+
+#: steelbusiness/templates/steelbusiness/faq.html:88
+msgid ""
+"How long does the fabrication process take for a custom\n"
+"                    staircase?"
+msgstr ""
+"How long does the fabrication process take for a custom\n"
+"                    staircase?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:99
+msgid ""
+"Typically, our fabrication process takes between 4 to 6\n"
+"                    weeks from final design approval to installation, "
+"depending\n"
+"                    on the complexity and customization required."
+msgstr ""
+"Typically, our fabrication process takes between 4 to 6\n"
+"                    weeks from final design approval to installation, "
+"depending\n"
+"                    on the complexity and customization required."
+
+#: steelbusiness/templates/steelbusiness/faq.html:129
+msgid "Which areas do you serve?"
+msgstr "Which areas do you serve?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:139
+msgid ""
+"We primarily focus our activities on London and its\n"
+"                    surrounding areas (including Westminster, Camden,\n"
+"                    Kensington, Islington, and the City of London), but we "
+"also\n"
+"                    operate internationally, serving clients around the "
+"globe."
+msgstr ""
+"We primarily focus our activities on London and its\n"
+"                    surrounding areas (including Westminster, Camden,\n"
+"                    Kensington, Islington, and the City of London), but we "
+"also\n"
+"                    operate internationally, serving clients around the "
+"globe."
+
+#: steelbusiness/templates/steelbusiness/faq.html:170
+msgid "Do you offer customization options for your staircases?"
+msgstr "Do you offer customization options for your staircases?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:180
+msgid ""
+"Yes, all of our staircases are bespoke. We work closely with\n"
+"                    clients to tailor designs that meet their specific "
+"aesthetic\n"
+"                    and functional requirements."
+msgstr ""
+"Yes, all of our staircases are bespoke. We work closely with\n"
+"                    clients to tailor designs that meet their specific "
+"aesthetic\n"
+"                    and functional requirements."
+
+#: steelbusiness/templates/steelbusiness/faq.html:215
+msgid "What design software do you use in your staircase projects?"
+msgstr "What design software do you use in your staircase projects?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:225
+msgid ""
+"We utilize advanced 3D CAD software to create detailed\n"
+"                    models and fabrication drawings, ensuring precision and\n"
+"                    clarity in every project."
+msgstr ""
+"We utilize advanced 3D CAD software to create detailed\n"
+"                    models and fabrication drawings, ensuring precision and\n"
+"                    clarity in every project."
+
+#: steelbusiness/templates/steelbusiness/faq.html:255
+msgid ""
+"Can you provide references or case studies of previous\n"
+"                    projects?"
+msgstr ""
+"Can you provide references or case studies of previous\n"
+"                    projects?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:266
+msgid ""
+"Absolutely. We have a comprehensive portfolio of completed\n"
+"                    projects and can provide references from satisfied "
+"clients\n"
+"                    upon request."
+msgstr ""
+"Absolutely. We have a comprehensive portfolio of completed\n"
+"                    projects and can provide references from satisfied "
+"clients\n"
+"                    upon request."
+
+#: steelbusiness/templates/steelbusiness/faq.html:296
+msgid ""
+"What quality control measures are in place during\n"
+"                    production?"
+msgstr ""
+"What quality control measures are in place during\n"
+"                    production?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:307
+msgid ""
+"Our production process includes rigorous quality control\n"
+"                    checks at every stage, ensuring that every staircase "
+"meets\n"
+"                    the highest standards of durability and design."
+msgstr ""
+"Our production process includes rigorous quality control\n"
+"                    checks at every stage, ensuring that every staircase "
+"meets\n"
+"                    the highest standards of durability and design."
+
+#: steelbusiness/templates/steelbusiness/faq.html:337
+msgid ""
+"How do you ensure the safety and durability of your\n"
+"                    staircases?"
+msgstr ""
+"How do you ensure the safety and durability of your\n"
+"                    staircases?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:348
+msgid ""
+"Our designs adhere to international safety standards and\n"
+"                    building codes, and we use premium materials along with\n"
+"                    advanced fabrication techniques to ensure long-lasting\n"
+"                    performance."
+msgstr ""
+"Our designs adhere to international safety standards and\n"
+"                    building codes, and we use premium materials along with\n"
+"                    advanced fabrication techniques to ensure long-lasting\n"
+"                    performance."
+
+#: steelbusiness/templates/steelbusiness/faq.html:384
+msgid ""
+"What is your process for handling design changes during\n"
+"                    production?"
+msgstr ""
+"What is your process for handling design changes during\n"
+"                    production?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:395
+msgid ""
+"We maintain open communication with our clients; any\n"
+"                    requested changes are thoroughly evaluated and "
+"incorporated\n"
+"                    into the project with minimal disruption to the timeline."
+msgstr ""
+"We maintain open communication with our clients; any\n"
+"                    requested changes are thoroughly evaluated and "
+"incorporated\n"
+"                    into the project with minimal disruption to the timeline."
+
+#: steelbusiness/templates/steelbusiness/faq.html:425
+msgid ""
+"Are your staircases compliant with local building codes and\n"
+"                    regulations?"
+msgstr ""
+"Are your staircases compliant with local building codes and\n"
+"                    regulations?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:436
+msgid ""
+"Yes, all of our designs meet or exceed local building codes\n"
+"                    and regulations, ensuring both safety and compliance."
+msgstr ""
+"Yes, all of our designs meet or exceed local building codes\n"
+"                    and regulations, ensuring both safety and compliance."
+
+#: steelbusiness/templates/steelbusiness/faq.html:465
+msgid "How do you manage international orders?"
+msgstr "How do you manage international orders?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:475
+msgid ""
+"We have a dedicated international sales team that\n"
+"                    coordinates logistics, shipping, and installation to "
+"provide\n"
+"                    a seamless experience for global clients."
+msgstr ""
+"We have a dedicated international sales team that\n"
+"                    coordinates logistics, shipping, and installation to "
+"provide\n"
+"                    a seamless experience for global clients."
+
+#: steelbusiness/templates/steelbusiness/faq.html:505
+msgid "What kind of maintenance do your staircases require?"
+msgstr "What kind of maintenance do your staircases require?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:515
+msgid ""
+"Our staircases are designed to be low-maintenance; routine\n"
+"                    cleaning and periodic inspections are generally "
+"sufficient\n"
+"                    to keep them in excellent condition."
+msgstr ""
+"Our staircases are designed to be low-maintenance; routine\n"
+"                    cleaning and periodic inspections are generally "
+"sufficient\n"
+"                    to keep them in excellent condition."
+
+#: steelbusiness/templates/steelbusiness/faq.html:550
+msgid ""
+"Can you install staircases in both commercial and\n"
+"                    residential settings?"
+msgstr ""
+"Can you install staircases in both commercial and\n"
+"                    residential settings?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:561
+msgid ""
+"Yes, our solutions are versatile and can be fully customized\n"
+"                    for both commercial and residential projects."
+msgstr ""
+"Yes, our solutions are versatile and can be fully customized\n"
+"                    for both commercial and residential projects."
+
+#: steelbusiness/templates/steelbusiness/faq.html:590
+msgid "Do you provide on-site consultations and measurements?"
+msgstr "Do you provide on-site consultations and measurements?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:600
+msgid ""
+"Yes, our experts are available for on-site consultations and\n"
+"                    precise measurements to ensure every project is "
+"perfectly\n"
+"                    tailored to the space."
+msgstr ""
+"Yes, our experts are available for on-site consultations and\n"
+"                    precise measurements to ensure every project is "
+"perfectly\n"
+"                    tailored to the space."
+
+#: steelbusiness/templates/steelbusiness/faq.html:630
+msgid ""
+"How do you integrate modern design trends into your\n"
+"                    staircases?"
+msgstr ""
+"How do you integrate modern design trends into your\n"
+"                    staircases?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:641
+msgid ""
+"We continuously update our design portfolio by incorporating\n"
+"                    the latest trends and innovative techniques, ensuring "
+"our\n"
+"                    staircases remain both timeless and contemporary."
+msgstr ""
+"We continuously update our design portfolio by incorporating\n"
+"                    the latest trends and innovative techniques, ensuring "
+"our\n"
+"                    staircases remain both timeless and contemporary."
+
+#: steelbusiness/templates/steelbusiness/faq.html:671
+msgid ""
+" What types of finishes are available for your metal\n"
+"                    staircases?"
+msgstr ""
+" What types of finishes are available for your metal\n"
+"                    staircases?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:682
+msgid ""
+"We offer a wide range of finishes including polished,\n"
+"                    brushed, and custom color options to complement any "
+"interior\n"
+"                    or exterior design."
+msgstr ""
+"We offer a wide range of finishes including polished,\n"
+"                    brushed, and custom color options to complement any "
+"interior\n"
+"                    or exterior design."
+
+#: steelbusiness/templates/steelbusiness/faq.html:729
+msgid "How do you address noise and vibration in staircase installations?"
+msgstr "How do you address noise and vibration in staircase installations?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:739
+msgid ""
+"We employ specialized materials and engineering techniques to minimize noise "
+"and vibration, ensuring a quiet and stable installation."
+msgstr ""
+"We employ specialized materials and engineering techniques to minimize noise "
+"and vibration, ensuring a quiet and stable installation."
+
+#: steelbusiness/templates/steelbusiness/faq.html:767
+msgid "What is the typical lead time from design to installation?"
+msgstr "What is the typical lead time from design to installation?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:777
+msgid ""
+"Generally, lead times range from 4 to 6 weeks, although highly complex or "
+"customized projects may require additional time."
+msgstr ""
+"Generally, lead times range from 4 to 6 weeks, although highly complex or "
+"customized projects may require additional time."
+
+#: steelbusiness/templates/steelbusiness/faq.html:805
+msgid "Do you offer financing or payment plans for large projects?"
+msgstr "Do you offer financing or payment plans for large projects?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:815
+msgid ""
+"Yes, we understand the scale of investment required for custom projects and "
+"offer flexible financing options to accommodate our clients' needs."
+msgstr ""
+"Yes, we understand the scale of investment required for custom projects and "
+"offer flexible financing options to accommodate our clients' needs."
+
+#: steelbusiness/templates/steelbusiness/faq.html:843
+msgid "What certifications or industry standards do your products meet?"
+msgstr "What certifications or industry standards do your products meet?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:853
+msgid ""
+"Our products comply with numerous industry standards and certifications, "
+"including ISO and local building codes, guaranteeing both quality and safety."
+msgstr ""
+"Our products comply with numerous industry standards and certifications, "
+"including ISO and local building codes, guaranteeing both quality and safety."
+
+#: steelbusiness/templates/steelbusiness/faq.html:886
+msgid "What role does technology play in your production process?"
+msgstr "What role does technology play in your production process?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:896
+msgid ""
+"Technology is at the core of our operations—using 3D laser measurements, "
+"advanced CAD modeling, and state-of-the-art fabrication machinery to ensure "
+"precision and quality."
+msgstr ""
+"Technology is at the core of our operations—using 3D laser measurements, "
+"advanced CAD modeling, and state-of-the-art fabrication machinery to ensure "
+"precision and quality."
+
+#: steelbusiness/templates/steelbusiness/faq.html:924
+msgid "What is the warranty policy for your metal staircases?"
+msgstr "What is the warranty policy for your metal staircases?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:934
+msgid ""
+"We offer comprehensive warranties covering both materials and workmanship, "
+"providing peace of mind for our clients."
+msgstr ""
+"We offer comprehensive warranties covering both materials and workmanship, "
+"providing peace of mind for our clients."
+
+#: steelbusiness/templates/steelbusiness/faq.html:962
+msgid "Can you retrofit or upgrade existing staircase structures?"
+msgstr "Can you retrofit or upgrade existing staircase structures?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:972
+msgid ""
+"Yes, we provide services to retrofit or upgrade existing staircases, "
+"enhancing both functionality and design."
+msgstr ""
+"Yes, we provide services to retrofit or upgrade existing staircases, "
+"enhancing both functionality and design."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1000
+msgid ""
+"What are the benefits of choosing a bespoke metal staircase over a standard "
+"solution?"
+msgstr ""
+"What are the benefits of choosing a bespoke metal staircase over a standard "
+"solution?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1010
+msgid ""
+"Bespoke staircases offer tailored design, superior quality, and complete "
+"customization to match any interior or exterior environment, making them a "
+"unique statement piece."
+msgstr ""
+"Bespoke staircases offer tailored design, superior quality, and complete "
+"customization to match any interior or exterior environment, making them a "
+"unique statement piece."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1043
+msgid "Do you collaborate with architects and interior designers?"
+msgstr "Do you collaborate with architects and interior designers?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1053
+msgid ""
+"Yes, we work closely with architects, interior designers, and other "
+"professionals to develop integrated solutions that enhance any space."
+msgstr ""
+"Yes, we work closely with architects, interior designers, and other "
+"professionals to develop integrated solutions that enhance any space."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1081
+msgid "How is the cost of a custom staircase determined?"
+msgstr "How is the cost of a custom staircase determined?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1091
+msgid ""
+"Costs depend on design complexity, materials, and the scope of the project. "
+"We provide detailed quotations after thorough consultations and measurements."
+msgstr ""
+"Costs depend on design complexity, materials, and the scope of the project. "
+"We provide detailed quotations after thorough consultations and measurements."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1119
+msgid "What payment methods do you accept?"
+msgstr "What payment methods do you accept?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1129
+msgid ""
+"We accept various payment methods including bank transfers, credit cards, "
+"and secure online payment options."
+msgstr ""
+"We accept various payment methods including bank transfers, credit cards, "
+"and secure online payment options."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1157
+msgid "Are there any financing options available?"
+msgstr "Are there any financing options available?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1167
+msgid ""
+"Yes, we offer flexible financing plans to help our clients manage the "
+"investment required for custom staircase projects."
+msgstr ""
+"Yes, we offer flexible financing plans to help our clients manage the "
+"investment required for custom staircase projects."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1200
+msgid "Can you provide 3D visualizations or mock-ups before fabrication?"
+msgstr "Can you provide 3D visualizations or mock-ups before fabrication?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1210
+msgid ""
+"Absolutely. We offer detailed 3D visualizations and mock-ups, allowing "
+"clients to review and refine the design before production begins."
+msgstr ""
+"Absolutely. We offer detailed 3D visualizations and mock-ups, allowing "
+"clients to review and refine the design before production begins."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1238
+msgid "What factors influence the final design of a staircase?"
+msgstr "What factors influence the final design of a staircase?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1248
+msgid ""
+"Key factors include available space, desired aesthetics, structural "
+"requirements, and client specifications. We take all of these into account "
+"to create a harmonious design."
+msgstr ""
+"Key factors include available space, desired aesthetics, structural "
+"requirements, and client specifications. We take all of these into account "
+"to create a harmonious design."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1276
+msgid "How do you ensure the durability of your products in various climates?"
+msgstr "How do you ensure the durability of your products in various climates?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1286
+msgid ""
+"We select premium, corrosion-resistant materials and employ advanced "
+"finishing techniques to ensure our staircases withstand diverse "
+"environmental conditions."
+msgstr ""
+"We select premium, corrosion-resistant materials and employ advanced "
+"finishing techniques to ensure our staircases withstand diverse "
+"environmental conditions."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1314
+msgid "What sets LM STAIRS apart from other staircase manufacturers?"
+msgstr "What sets LM STAIRS apart from other staircase manufacturers?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1324
+msgid ""
+"Our unique blend of traditional craftsmanship and cutting-edge technology, "
+"along with bespoke design options and exceptional customer service, "
+"distinguishes us as an industry leader."
+msgstr ""
+"Our unique blend of traditional craftsmanship and cutting-edge technology, "
+"along with bespoke design options and exceptional customer service, "
+"distinguishes us as an industry leader."
+
+#: steelbusiness/templates/steelbusiness/home.html:52
+#: steelbusiness/templates/steelbusiness/services.html:16
+msgid "Site Survey and Measurements"
+msgstr "Site Survey and Measurements"
+
+#: steelbusiness/templates/steelbusiness/home.html:53
+#: steelbusiness/templates/steelbusiness/services.html:17
+msgid ""
+"We conduct thorough on‑site surveys and measurements using the latest "
+"measuring devices and 3D lasers."
+msgstr ""
+"We conduct thorough on‑site surveys and measurements using the latest "
+"measuring devices and 3D lasers."
+
+#: steelbusiness/templates/steelbusiness/home.html:53
+#: steelbusiness/templates/steelbusiness/services.html:17
+msgid "We manage every phase from initial assessment to final reporting."
+msgstr "We manage every phase from initial assessment to final reporting."
+
+#: steelbusiness/templates/steelbusiness/home.html:61
+#: steelbusiness/templates/steelbusiness/services.html:25
+msgid "Design and Calculations"
+msgstr "Design and Calculations"
+
+#: steelbusiness/templates/steelbusiness/home.html:62
+#: steelbusiness/templates/steelbusiness/services.html:26
+msgid ""
+"Our designers use 3D CAD and prepare a complete set of drawings for project "
+"approval before production.Every detail is planned comprehensively."
+msgstr ""
+"Our designers use 3D CAD and prepare a complete set of drawings for project "
+"approval before production.Every detail is planned comprehensively."
+
+#: steelbusiness/templates/steelbusiness/home.html:70
+#: steelbusiness/templates/steelbusiness/services.html:34
+msgid "Fabrication Drawings"
+msgstr "Fabrication Drawings"
+
+#: steelbusiness/templates/steelbusiness/home.html:71
+#: steelbusiness/templates/steelbusiness/services.html:35
+msgid ""
+"Detailed technical drawings to ensure flawless production.We cover every "
+"aspect from concept to manufacturing."
+msgstr ""
+"Detailed technical drawings to ensure flawless production.We cover every "
+"aspect from concept to manufacturing."
+
+#: steelbusiness/templates/steelbusiness/home.html:79
+#: steelbusiness/templates/steelbusiness/services.html:43
+msgid "Fabrication and Installation"
+msgstr "Fabrication and Installation"
+
+#: steelbusiness/templates/steelbusiness/home.html:80
+#: steelbusiness/templates/steelbusiness/services.html:44
+msgid ""
+"Expert fabrication and seamless installation by our skilled teams.We handle "
+"the complete process from production to final installation."
+msgstr ""
+"Expert fabrication and seamless installation by our skilled teams.We handle "
+"the complete process from production to final installation."
+
+#: steelbusiness/templates/steelbusiness/home.html:94
+#: steelbusiness/templates/steelbusiness/home.html:95
+#: steelbusiness/templates/steelbusiness/staircase.html:10
+#: templates/base.html:59
+msgid "Staircase Types"
+msgstr "Staircase Types"
+
+#: steelbusiness/templates/steelbusiness/home.html:96
+#: steelbusiness/templates/steelbusiness/staircase.html:11
+#, fuzzy
+#| msgid ""
+#| "The examples below represent some of the staircase types we produce. With "
+#| "our extensive experience, we also create custom, non-standard designs "
+#| "tailored to your unique requirements."
+msgid ""
+"The examples below represent some of the staircase types we produce.With our "
+"extensive experience, we also create custom, non-standard designs tailored "
+"to your unique requirements."
+msgstr ""
+"The examples below represent some of the staircase types we produce. With "
+"our extensive experience, we also create custom, non-standard designs "
+"tailored to your unique requirements."
+
+#: steelbusiness/templates/steelbusiness/home.html:104
+#: steelbusiness/templates/steelbusiness/staircase.html:19
+msgid "Spiral Staircase"
+msgstr "Spiral Staircase"
+
+#: steelbusiness/templates/steelbusiness/home.html:112
+#: steelbusiness/templates/steelbusiness/staircase.html:27
+msgid "Curved Staircase"
+msgstr "Curved Staircase"
+
+#: steelbusiness/templates/steelbusiness/home.html:120
+#: steelbusiness/templates/steelbusiness/staircase.html:35
+msgid "Single Central Stringer"
+msgstr "Single Central Stringer"
+
+#: steelbusiness/templates/steelbusiness/home.html:128
+#: steelbusiness/templates/steelbusiness/staircase.html:43
+msgid "Straight Staircase"
+msgstr "Straight Staircase"
+
+#: steelbusiness/templates/steelbusiness/home.html:136
+#: steelbusiness/templates/steelbusiness/staircase.html:51
+msgid "Exterior Staircase"
+msgstr "Exterior Staircase"
+
+#: steelbusiness/templates/steelbusiness/home.html:144
+#: steelbusiness/templates/steelbusiness/staircase.html:59
+msgid "Space Saving"
+msgstr "Space Saving"
+
+#: steelbusiness/templates/steelbusiness/home.html:152
+#: steelbusiness/templates/steelbusiness/staircase.html:67
+msgid "Fire Exit"
+msgstr "Fire Exit"
+
+#: steelbusiness/templates/steelbusiness/home.html:160
+#: steelbusiness/templates/steelbusiness/staircase.html:75
+msgid "Basement Staircase"
+msgstr "Basement Staircase"
+
+#: steelbusiness/views.py:9 templates/base.html:47
+msgid "Home"
+msgstr "Home"
+
+#: steelbusiness/views.py:14
+msgid "About Us"
+msgstr "About Us"
+
+#: steelbusiness/views.py:19
+msgid "Our Services"
+msgstr "Our Services"
+
+#: steelbusiness/views.py:24
+msgid "Staircase Design"
+msgstr "Staircase Design"
+
+#: steelbusiness/views.py:29 templates/base.html:63
+msgid "Gallery"
+msgstr "Gallery"
+
+#: templates/base.html:51
+#, fuzzy
+#| msgid "About Us"
+msgid "About"
+msgstr "About Us"
+
+#: templates/base.html:55
+#, fuzzy
+#| msgid "Our Services"
+msgid "Services"
+msgstr "Our Services"
+
+#: templates/base.html:71
+#, fuzzy
+#| msgid "Contact Us"
+msgid "Contact"
+msgstr "Contact Us"
+
+#~ msgid "English"
+#~ msgstr "English"
+
+#~ msgid "Mandarin"
+#~ msgstr "Mandarin"
+
+#~ msgid "Polish"
+#~ msgstr "Polish"

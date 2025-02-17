@@ -1,0 +1,771 @@
+# LM STAIRS
+# Copyright (C) 2025 Serra Kir Dworczak
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR serrakir@gmail, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 18:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME serrakir@gmail\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && "
+"(n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && "
+"n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: steelbusiness/templates/steelbusiness/about.html:15
+msgid "About LM STAIRS"
+msgstr "O LM STAIRS"
+
+#: steelbusiness/templates/steelbusiness/about.html:17
+msgid ""
+"Founded in 1985, LM STAIRS has grown into a global leader in the\n"
+"            design and fabrication of luxury metal staircases. With "
+"headquarters\n"
+"            in London and multiple state-of-the-art production facilities, "
+"our\n"
+"            extensive teams of experienced engineers, designers, and "
+"installers\n"
+"            have delivered innovative, bespoke solutions for prestigious "
+"clients\n"
+"            worldwide."
+msgstr ""
+"Założona w 1985 roku, firma LM STAIRS stała się światowym liderem w "
+"projektowaniu\n"
+"            i produkcji luksusowych metalowych schodów. Z siedzibą w "
+"Londynie i\n"
+"            wieloma nowoczesnymi zakładami produkcyjnymi, nasze rozległe "
+"zespoły\n"
+"            doświadczonych inżynierów, projektantów i instalatorów "
+"dostarczyły\n"
+"            innowacyjne, na zamówienie rozwiązania dla prestiżowych klientów "
+"na całym świecie."
+
+#: steelbusiness/templates/steelbusiness/about.html:25
+msgid ""
+"Our commitment to quality, precision, and innovation is reflected in\n"
+"            every project. Using the latest 3D laser measurement technology "
+"and\n"
+"            advanced CAD systems, we create detailed fabrication drawings "
+"and\n"
+"            execute projects to the highest standards. We focus our "
+"activities\n"
+"            on London and its surrounding areas (including Westminster, "
+"Camden,\n"
+"            Kensington, Islington, and the City of London), but we operate\n"
+"            internationally and serve clients around the globe."
+msgstr ""
+"Nasze zaangażowanie w jakość, precyzję i innowacje znajduje odzwierciedlenie "
+"w każdym projekcie.\n"
+"            Korzystając z najnowszej technologii pomiarów laserowych 3D i "
+"zaawansowanych systemów CAD,\n"
+"            tworzymy szczegółowe rysunki produkcyjne i realizujemy projekty "
+"na najwyższym poziomie.\n"
+"            Skupiamy nasze działania na Londynie i jego okolicach (w tym "
+"Westminster, Camden,\n"
+"            Kensington, Islington i City of London), ale działamy "
+"międzynarodowo i obsługujemy klientów na całym świecie."
+
+#: steelbusiness/templates/steelbusiness/about.html:34
+msgid ""
+"At LM STAIRS, we combine traditional craftsmanship with cutting-edge\n"
+"            technology, ensuring our clients receive the finest bespoke\n"
+"            staircase solutions available."
+msgstr ""
+"W LM STAIRS łączymy tradycyjne rzemiosło z najnowocześniejszą technologią,\n"
+"            zapewniając naszym klientom najlepsze dostępne rozwiązania "
+"schodów na zamówienie."
+
+#: steelbusiness/templates/steelbusiness/about.html:38
+#: steelbusiness/views.py:39
+msgid "Contact Us"
+msgstr "Kontakt"
+
+#: steelbusiness/templates/steelbusiness/contact.html:13
+#, fuzzy
+#| msgid "Contact Us"
+msgid "Contact us"
+msgstr "Kontakt"
+
+#: steelbusiness/templates/steelbusiness/contact.html:16
+msgid "For inquiries regarding our products or services, please contact us:"
+msgstr ""
+"W przypadku pytań dotyczących naszych produktów lub usług, prosimy o kontakt:"
+
+#: steelbusiness/templates/steelbusiness/contact.html:19
+msgid "We can assist you in English, Polish, and Mandarin."
+msgstr "Możemy pomóc w języku angielskim, polskim i mandaryńskim."
+
+#: steelbusiness/templates/steelbusiness/faq.html:11 steelbusiness/views.py:34
+msgid "Frequently Asked Questions"
+msgstr "Często zadawane pytania"
+
+#: steelbusiness/templates/steelbusiness/faq.html:13
+msgid ""
+"You can find answers to frequently askes questions\n"
+"           below."
+msgstr "Poniżej znajdziesz odpowiedzi na często zadawane pytania."
+
+#: steelbusiness/templates/steelbusiness/faq.html:48
+msgid "What materials are used in LM STAIRS' metal staircases?"
+msgstr "Jakie materiały są używane w metalowych schodach LM STAIRS?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:58
+msgid ""
+"Our staircases are crafted using high-quality, durable\n"
+"                    metals such as stainless steel, aluminum, and custom "
+"alloys,\n"
+"                    ensuring longevity and a sleek, modern appearance."
+msgstr ""
+"Nasze schody są wykonane z wysokiej jakości, trwałych metali, takich jak "
+"stal nierdzewna,\n"
+"                    aluminium i stopy na zamówienie, co zapewnia "
+"długowieczność i elegancki, nowoczesny wygląd."
+
+#: steelbusiness/templates/steelbusiness/faq.html:88
+msgid ""
+"How long does the fabrication process take for a custom\n"
+"                    staircase?"
+msgstr "Jak długo trwa proces produkcji schodów na zamówienie?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:99
+msgid ""
+"Typically, our fabrication process takes between 4 to 6\n"
+"                    weeks from final design approval to installation, "
+"depending\n"
+"                    on the complexity and customization required."
+msgstr ""
+"Zazwyczaj nasz proces produkcji trwa od 4 do 6 tygodni od zatwierdzenia "
+"ostatecznego projektu do instalacji,\n"
+"                    w zależności od złożoności i wymaganej personalizacji."
+
+#: steelbusiness/templates/steelbusiness/faq.html:129
+msgid "Which areas do you serve?"
+msgstr "Jakie obszary obsługujecie?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:139
+msgid ""
+"We primarily focus our activities on London and its\n"
+"                    surrounding areas (including Westminster, Camden,\n"
+"                    Kensington, Islington, and the City of London), but we "
+"also\n"
+"                    operate internationally, serving clients around the "
+"globe."
+msgstr ""
+"Skupiamy nasze działania głównie na Londynie i jego okolicach (w tym "
+"Westminster, Camden,\n"
+"                    Kensington, Islington i City of London), ale działamy "
+"również międzynarodowo,\n"
+"                    obsługując klientów na całym świecie."
+
+#: steelbusiness/templates/steelbusiness/faq.html:170
+msgid "Do you offer customization options for your staircases?"
+msgstr "Czy oferujecie opcje personalizacji dla swoich schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:180
+msgid ""
+"Yes, all of our staircases are bespoke. We work closely with\n"
+"                    clients to tailor designs that meet their specific "
+"aesthetic\n"
+"                    and functional requirements."
+msgstr ""
+"Tak, wszystkie nasze schody są na zamówienie. Ściśle współpracujemy z "
+"klientami,\n"
+"                    aby dostosować projekty do ich specyficznych wymagań "
+"estetycznych i funkcjonalnych."
+
+#: steelbusiness/templates/steelbusiness/faq.html:215
+msgid "What design software do you use in your staircase projects?"
+msgstr ""
+"Jakiego oprogramowania do projektowania używacie w swoich projektach schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:225
+msgid ""
+"We utilize advanced 3D CAD software to create detailed\n"
+"                    models and fabrication drawings, ensuring precision and\n"
+"                    clarity in every project."
+msgstr ""
+"Używamy zaawansowanego oprogramowania CAD 3D do tworzenia szczegółowych "
+"modeli i rysunków produkcyjnych,\n"
+"                    co zapewnia precyzję i przejrzystość w każdym projekcie."
+
+#: steelbusiness/templates/steelbusiness/faq.html:255
+msgid ""
+"Can you provide references or case studies of previous\n"
+"                    projects?"
+msgstr ""
+"Czy możecie dostarczyć referencje lub studia przypadków z poprzednich "
+"projektów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:266
+msgid ""
+"Absolutely. We have a comprehensive portfolio of completed\n"
+"                    projects and can provide references from satisfied "
+"clients\n"
+"                    upon request."
+msgstr ""
+"Oczywiście. Mamy obszerne portfolio ukończonych projektów i możemy "
+"dostarczyć referencje od zadowolonych klientów na życzenie."
+
+#: steelbusiness/templates/steelbusiness/faq.html:296
+msgid ""
+"What quality control measures are in place during\n"
+"                    production?"
+msgstr "Jakie środki kontroli jakości są stosowane podczas produkcji?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:307
+msgid ""
+"Our production process includes rigorous quality control\n"
+"                    checks at every stage, ensuring that every staircase "
+"meets\n"
+"                    the highest standards of durability and design."
+msgstr ""
+"Nasz proces produkcji obejmuje rygorystyczne kontrole jakości na każdym "
+"etapie,\n"
+"                    co zapewnia, że każde schody spełniają najwyższe "
+"standardy trwałości i wzornictwa."
+
+#: steelbusiness/templates/steelbusiness/faq.html:337
+msgid ""
+"How do you ensure the safety and durability of your\n"
+"                    staircases?"
+msgstr "Jak zapewniacie bezpieczeństwo i trwałość swoich schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:348
+msgid ""
+"Our designs adhere to international safety standards and\n"
+"                    building codes, and we use premium materials along with\n"
+"                    advanced fabrication techniques to ensure long-lasting\n"
+"                    performance."
+msgstr ""
+"Nasze projekty są zgodne z międzynarodowymi standardami bezpieczeństwa i "
+"przepisami budowlanymi,\n"
+"                    a my używamy najwyższej jakości materiałów oraz "
+"zaawansowanych technik produkcji,\n"
+"                    aby zapewnić długotrwałą wydajność."
+
+#: steelbusiness/templates/steelbusiness/faq.html:384
+#, fuzzy
+#| msgid ""
+#| "What quality control measures are in place during\n"
+#| "                    production?"
+msgid ""
+"What is your process for handling design changes during\n"
+"                    production?"
+msgstr "Jakie środki kontroli jakości są stosowane podczas produkcji?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:395
+msgid ""
+"We maintain open communication with our clients; any\n"
+"                    requested changes are thoroughly evaluated and "
+"incorporated\n"
+"                    into the project with minimal disruption to the timeline."
+msgstr ""
+"Utrzymujemy otwartą komunikację z naszymi klientami; wszelkie żądane zmiany "
+"są dokładnie oceniane\n"
+"                    i wprowadzane do projektu z minimalnym zakłóceniem "
+"harmonogramu."
+
+#: steelbusiness/templates/steelbusiness/faq.html:425
+msgid ""
+"Are your staircases compliant with local building codes and\n"
+"                    regulations?"
+msgstr ""
+"Czy wasze schody są zgodne z lokalnymi przepisami budowlanymi i regulacjami?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:436
+msgid ""
+"Yes, all of our designs meet or exceed local building codes\n"
+"                    and regulations, ensuring both safety and compliance."
+msgstr ""
+"Tak, wszystkie nasze projekty spełniają lub przewyższają lokalne przepisy "
+"budowlane i regulacje,\n"
+"                    zapewniając zarówno bezpieczeństwo, jak i zgodność."
+
+#: steelbusiness/templates/steelbusiness/faq.html:465
+msgid "How do you manage international orders?"
+msgstr "Jak zarządzacie zamówieniami międzynarodowymi?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:475
+msgid ""
+"We have a dedicated international sales team that\n"
+"                    coordinates logistics, shipping, and installation to "
+"provide\n"
+"                    a seamless experience for global clients."
+msgstr ""
+"Mamy dedykowany zespół sprzedaży międzynarodowej, który koordynuje "
+"logistykę, wysyłkę i instalację,\n"
+"                    aby zapewnić bezproblemowe doświadczenie dla klientów na "
+"całym świecie."
+
+#: steelbusiness/templates/steelbusiness/faq.html:505
+msgid "What kind of maintenance do your staircases require?"
+msgstr "Jakiego rodzaju konserwacji wymagają wasze schody?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:515
+msgid ""
+"Our staircases are designed to be low-maintenance; routine\n"
+"                    cleaning and periodic inspections are generally "
+"sufficient\n"
+"                    to keep them in excellent condition."
+msgstr ""
+"Nasze schody są zaprojektowane tak, aby wymagały niewielkiej konserwacji; "
+"rutynowe czyszczenie\n"
+"                    i okresowe inspekcje są zazwyczaj wystarczające, aby "
+"utrzymać je w doskonałym stanie."
+
+#: steelbusiness/templates/steelbusiness/faq.html:550
+msgid ""
+"Can you install staircases in both commercial and\n"
+"                    residential settings?"
+msgstr ""
+"Czy możecie instalować schody zarówno w obiektach komercyjnych, jak i "
+"mieszkalnych?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:561
+msgid ""
+"Yes, our solutions are versatile and can be fully customized\n"
+"                    for both commercial and residential projects."
+msgstr ""
+"Tak, nasze rozwiązania są wszechstronne i mogą być w pełni dostosowane do "
+"projektów komercyjnych i mieszkalnych."
+
+#: steelbusiness/templates/steelbusiness/faq.html:590
+msgid "Do you provide on-site consultations and measurements?"
+msgstr "Czy oferujecie konsultacje i pomiary na miejscu?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:600
+msgid ""
+"Yes, our experts are available for on-site consultations and\n"
+"                    precise measurements to ensure every project is "
+"perfectly\n"
+"                    tailored to the space."
+msgstr ""
+"Tak, nasi eksperci są dostępni do konsultacji na miejscu i precyzyjnych "
+"pomiarów,\n"
+"                    aby zapewnić, że każdy projekt jest idealnie dopasowany "
+"do przestrzeni."
+
+#: steelbusiness/templates/steelbusiness/faq.html:630
+msgid ""
+"How do you integrate modern design trends into your\n"
+"                    staircases?"
+msgstr "Jak integrujecie nowoczesne trendy projektowe w swoich schodach?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:641
+msgid ""
+"We continuously update our design portfolio by incorporating\n"
+"                    the latest trends and innovative techniques, ensuring "
+"our\n"
+"                    staircases remain both timeless and contemporary."
+msgstr ""
+"Stale aktualizujemy nasze portfolio projektowe, włączając najnowsze trendy i "
+"innowacyjne techniki,\n"
+"                    zapewniając, że nasze schody pozostają zarówno "
+"ponadczasowe, jak i nowoczesne."
+
+#: steelbusiness/templates/steelbusiness/faq.html:671
+msgid ""
+" What types of finishes are available for your metal\n"
+"                    staircases?"
+msgstr "Jakie rodzaje wykończeń są dostępne dla waszych metalowych schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:682
+msgid ""
+"We offer a wide range of finishes including polished,\n"
+"                    brushed, and custom color options to complement any "
+"interior\n"
+"                    or exterior design."
+msgstr ""
+"Oferujemy szeroką gamę wykończeń, w tym polerowane, szczotkowane i "
+"niestandardowe opcje kolorystyczne,\n"
+"                    aby uzupełnić każdy projekt wnętrza lub zewnętrza."
+
+#: steelbusiness/templates/steelbusiness/faq.html:729
+msgid "How do you address noise and vibration in staircase installations?"
+msgstr "Jak radzicie sobie z hałasem i wibracjami w instalacjach schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:739
+msgid ""
+"We employ specialized materials and engineering techniques to minimize noise "
+"and vibration, ensuring a quiet and stable installation."
+msgstr ""
+"Stosujemy specjalistyczne materiały i techniki inżynieryjne, aby "
+"zminimalizować hałas i wibracje,\n"
+"                    zapewniając cichą i stabilną instalację."
+
+#: steelbusiness/templates/steelbusiness/faq.html:767
+msgid "What is the typical lead time from design to installation?"
+msgstr "Jaki jest typowy czas realizacji od projektu do instalacji?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:777
+msgid ""
+"Generally, lead times range from 4 to 6 weeks, although highly complex or "
+"customized projects may require additional time."
+msgstr ""
+"Zazwyczaj czas realizacji wynosi od 4 do 6 tygodni, chociaż bardzo złożone "
+"lub niestandardowe projekty mogą wymagać dodatkowego czasu."
+
+#: steelbusiness/templates/steelbusiness/faq.html:805
+msgid "Do you offer financing or payment plans for large projects?"
+msgstr "Czy oferujecie finansowanie lub plany płatności dla dużych projektów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:815
+msgid ""
+"Yes, we understand the scale of investment required for custom projects and "
+"offer flexible financing options to accommodate our clients' needs."
+msgstr ""
+"Tak, rozumiemy skalę inwestycji wymaganej dla projektów na zamówienie i "
+"oferujemy elastyczne opcje finansowania,\n"
+"                    aby dostosować się do potrzeb naszych klientów."
+
+#: steelbusiness/templates/steelbusiness/faq.html:843
+msgid "What certifications or industry standards do your products meet?"
+msgstr "Jakie certyfikaty lub standardy branżowe spełniają wasze produkty?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:853
+msgid ""
+"Our products comply with numerous industry standards and certifications, "
+"including ISO and local building codes, guaranteeing both quality and safety."
+msgstr ""
+"Nasze produkty są zgodne z licznymi standardami branżowymi i certyfikatami, "
+"w tym ISO i lokalnymi przepisami budowlanymi,\n"
+"                    co gwarantuje zarówno jakość, jak i bezpieczeństwo."
+
+#: steelbusiness/templates/steelbusiness/faq.html:886
+msgid "What role does technology play in your production process?"
+msgstr "Jaką rolę odgrywa technologia w waszym procesie produkcyjnym?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:896
+msgid ""
+"Technology is at the core of our operations—using 3D laser measurements, "
+"advanced CAD modeling, and state-of-the-art fabrication machinery to ensure "
+"precision and quality."
+msgstr ""
+"Technologia jest rdzeniem naszych operacji—używamy pomiarów laserowych 3D, "
+"zaawansowanego modelowania CAD\n"
+"                    i nowoczesnych maszyn produkcyjnych, aby zapewnić "
+"precyzję i jakość."
+
+#: steelbusiness/templates/steelbusiness/faq.html:924
+msgid "What is the warranty policy for your metal staircases?"
+msgstr "Jaka jest polityka gwarancyjna dla waszych metalowych schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:934
+msgid ""
+"We offer comprehensive warranties covering both materials and workmanship, "
+"providing peace of mind for our clients."
+msgstr ""
+"Oferujemy kompleksowe gwarancje obejmujące zarówno materiały, jak i "
+"wykonanie,\n"
+"                    zapewniając spokój ducha naszym klientom."
+
+#: steelbusiness/templates/steelbusiness/faq.html:962
+msgid "Can you retrofit or upgrade existing staircase structures?"
+msgstr "Czy możecie modernizować lub ulepszać istniejące konstrukcje schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:972
+msgid ""
+"Yes, we provide services to retrofit or upgrade existing staircases, "
+"enhancing both functionality and design."
+msgstr ""
+"Tak, świadczymy usługi modernizacji lub ulepszania istniejących schodów,\n"
+"                    poprawiając zarówno funkcjonalność, jak i wzornictwo."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1000
+msgid ""
+"What are the benefits of choosing a bespoke metal staircase over a standard "
+"solution?"
+msgstr ""
+"Jakie są korzyści z wyboru schodów metalowych na zamówienie w porównaniu do "
+"standardowego rozwiązania?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1010
+msgid ""
+"Bespoke staircases offer tailored design, superior quality, and complete "
+"customization to match any interior or exterior environment, making them a "
+"unique statement piece."
+msgstr ""
+"Schody na zamówienie oferują dopasowany projekt, najwyższą jakość i pełną "
+"personalizację,\n"
+"                    aby pasowały do każdego wnętrza lub otoczenia "
+"zewnętrznego, czyniąc je unikalnym elementem wystroju."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1043
+msgid "Do you collaborate with architects and interior designers?"
+msgstr "Czy współpracujecie z architektami i projektantami wnętrz?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1053
+msgid ""
+"Yes, we work closely with architects, interior designers, and other "
+"professionals to develop integrated solutions that enhance any space."
+msgstr ""
+"Tak, ściśle współpracujemy z architektami, projektantami wnętrz i innymi "
+"profesjonalistami,\n"
+"                    aby opracować zintegrowane rozwiązania, które wzbogacają "
+"każdą przestrzeń."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1081
+msgid "How is the cost of a custom staircase determined?"
+msgstr "Jak jest ustalana cena schodów na zamówienie?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1091
+msgid ""
+"Costs depend on design complexity, materials, and the scope of the project. "
+"We provide detailed quotations after thorough consultations and measurements."
+msgstr ""
+"Koszty zależą od złożoności projektu, materiałów i zakresu projektu.\n"
+"                    Dostarczamy szczegółowe wyceny po dokładnych "
+"konsultacjach i pomiarach."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1119
+msgid "What payment methods do you accept?"
+msgstr "Jakie metody płatności akceptujecie?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1129
+msgid ""
+"We accept various payment methods including bank transfers, credit cards, "
+"and secure online payment options."
+msgstr ""
+"Akceptujemy różne metody płatności, w tym przelewy bankowe, karty kredytowe "
+"i bezpieczne opcje płatności online."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1157
+msgid "Are there any financing options available?"
+msgstr "Czy są dostępne opcje finansowania?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1167
+msgid ""
+"Yes, we offer flexible financing plans to help our clients manage the "
+"investment required for custom staircase projects."
+msgstr ""
+"Tak, oferujemy elastyczne plany finansowania, aby pomóc naszym klientom "
+"zarządzać inwestycją wymaganą dla projektów schodów na zamówienie."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1200
+msgid "Can you provide 3D visualizations or mock-ups before fabrication?"
+msgstr "Czy możecie dostarczyć wizualizacje 3D lub makiety przed produkcją?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1210
+msgid ""
+"Absolutely. We offer detailed 3D visualizations and mock-ups, allowing "
+"clients to review and refine the design before production begins."
+msgstr ""
+"Oczywiście. Oferujemy szczegółowe wizualizacje 3D i makiety, umożliwiając "
+"klientom przegląd i dopracowanie projektu przed rozpoczęciem produkcji."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1238
+msgid "What factors influence the final design of a staircase?"
+msgstr "Jakie czynniki wpływają na ostateczny projekt schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1248
+msgid ""
+"Key factors include available space, desired aesthetics, structural "
+"requirements, and client specifications. We take all of these into account "
+"to create a harmonious design."
+msgstr ""
+"Kluczowe czynniki to dostępna przestrzeń, pożądana estetyka, wymagania "
+"konstrukcyjne i specyfikacje klienta.\n"
+"                    Bierzemy pod uwagę wszystkie te elementy, aby stworzyć "
+"harmonijny projekt."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1276
+msgid "How do you ensure the durability of your products in various climates?"
+msgstr "Jak zapewniacie trwałość swoich produktów w różnych klimatach?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1286
+msgid ""
+"We select premium, corrosion-resistant materials and employ advanced "
+"finishing techniques to ensure our staircases withstand diverse "
+"environmental conditions."
+msgstr ""
+"Wybieramy najwyższej jakości, odporne na korozję materiały i stosujemy "
+"zaawansowane techniki wykończeniowe,\n"
+"                    aby zapewnić, że nasze schody wytrzymują różnorodne "
+"warunki środowiskowe."
+
+#: steelbusiness/templates/steelbusiness/faq.html:1314
+msgid "What sets LM STAIRS apart from other staircase manufacturers?"
+msgstr "Co wyróżnia LM STAIRS na tle innych producentów schodów?"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1324
+msgid ""
+"Our unique blend of traditional craftsmanship and cutting-edge technology, "
+"along with bespoke design options and exceptional customer service, "
+"distinguishes us as an industry leader."
+msgstr ""
+"Nasza unikalna mieszanka tradycyjnego rzemiosła i najnowocześniejszej "
+"technologii,\n"
+"                    wraz z opcjami projektów na zamówienie i wyjątkową "
+"obsługą klienta,\n"
+"                    wyróżnia nas jako lidera branży."
+
+#: steelbusiness/templates/steelbusiness/home.html:52
+#: steelbusiness/templates/steelbusiness/services.html:16
+msgid "Site Survey and Measurements"
+msgstr "Badanie terenu i pomiary"
+
+#: steelbusiness/templates/steelbusiness/home.html:53
+#: steelbusiness/templates/steelbusiness/services.html:17
+msgid ""
+"We conduct thorough on‑site surveys and measurements using the latest "
+"measuring devices and 3D lasers."
+msgstr ""
+"Przeprowadzamy dokładne badania i pomiary na miejscu, wykorzystując "
+"najnowocześniejsze urządzenia pomiarowe i lasery 3D."
+
+#: steelbusiness/templates/steelbusiness/home.html:53
+#: steelbusiness/templates/steelbusiness/services.html:17
+msgid "We manage every phase from initial assessment to final reporting."
+msgstr "Zarządzamy każdym etapem, od wstępnej oceny do końcowego raportu."
+
+#: steelbusiness/templates/steelbusiness/home.html:61
+#: steelbusiness/templates/steelbusiness/services.html:25
+msgid "Design and Calculations"
+msgstr "Projektowanie i obliczenia"
+
+#: steelbusiness/templates/steelbusiness/home.html:62
+#: steelbusiness/templates/steelbusiness/services.html:26
+msgid ""
+"Our designers use 3D CAD and prepare a complete set of drawings for project "
+"approval before production.Every detail is planned comprehensively."
+msgstr ""
+"Nasi projektanci korzystają z technologii 3D CAD i przygotowują kompletny "
+"zestaw rysunków do zatwierdzenia projektu przed rozpoczęciem produkcji. "
+"Każdy szczegół jest planowany kompleksowo."
+
+#: steelbusiness/templates/steelbusiness/home.html:70
+#: steelbusiness/templates/steelbusiness/services.html:34
+msgid "Fabrication Drawings"
+msgstr "Rysunki wykonawcze"
+
+#: steelbusiness/templates/steelbusiness/home.html:71
+#: steelbusiness/templates/steelbusiness/services.html:35
+msgid ""
+"Detailed technical drawings to ensure flawless production.We cover every "
+"aspect from concept to manufacturing."
+msgstr ""
+"Szczegółowe rysunki techniczne zapewniające bezbłędną produkcję. Zajmujemy "
+"się każdym aspektem od koncepcji do produkcji."
+
+#: steelbusiness/templates/steelbusiness/home.html:79
+#: steelbusiness/templates/steelbusiness/services.html:43
+msgid "Fabrication and Installation"
+msgstr "Produkcja i montaż"
+
+#: steelbusiness/templates/steelbusiness/home.html:80
+#: steelbusiness/templates/steelbusiness/services.html:44
+msgid ""
+"Expert fabrication and seamless installation by our skilled teams.We handle "
+"the complete process from production to final installation."
+msgstr ""
+"Ekspercka produkcja i bezproblemowa instalacja przez nasze wykwalifikowane "
+"zespoły. Zajmujemy się całym procesem, od produkcji do końcowej instalacji."
+
+#: steelbusiness/templates/steelbusiness/home.html:94
+#: steelbusiness/templates/steelbusiness/home.html:95
+#: steelbusiness/templates/steelbusiness/staircase.html:10
+#: templates/base.html:59
+msgid "Staircase Types"
+msgstr "Rodzaje schodów"
+
+#: steelbusiness/templates/steelbusiness/home.html:96
+#: steelbusiness/templates/steelbusiness/staircase.html:11
+msgid ""
+"The examples below represent some of the staircase types we produce.With our "
+"extensive experience, we also create custom, non-standard designs tailored "
+"to your unique requirements."
+msgstr ""
+"Poniższe przykłady przedstawiają niektóre z rodzajów schodów, które "
+"produkujemy. Dzięki naszemu bogatemu doświadczeniu tworzymy również "
+"niestandardowe projekty dostosowane do Twoich unikalnych wymagań."
+
+#: steelbusiness/templates/steelbusiness/home.html:104
+#: steelbusiness/templates/steelbusiness/staircase.html:19
+msgid "Spiral Staircase"
+msgstr "Schody spiralne"
+
+#: steelbusiness/templates/steelbusiness/home.html:112
+#: steelbusiness/templates/steelbusiness/staircase.html:27
+msgid "Curved Staircase"
+msgstr "Schody kręcone"
+
+#: steelbusiness/templates/steelbusiness/home.html:120
+#: steelbusiness/templates/steelbusiness/staircase.html:35
+msgid "Single Central Stringer"
+msgstr "Pojedynczy centralny dźwigar"
+
+#: steelbusiness/templates/steelbusiness/home.html:128
+#: steelbusiness/templates/steelbusiness/staircase.html:43
+msgid "Straight Staircase"
+msgstr "Schody proste"
+
+#: steelbusiness/templates/steelbusiness/home.html:136
+#: steelbusiness/templates/steelbusiness/staircase.html:51
+msgid "Exterior Staircase"
+msgstr "Schody zewnętrzne"
+
+#: steelbusiness/templates/steelbusiness/home.html:144
+#: steelbusiness/templates/steelbusiness/staircase.html:59
+msgid "Space Saving"
+msgstr "Oszczędność miejsca"
+
+#: steelbusiness/templates/steelbusiness/home.html:152
+#: steelbusiness/templates/steelbusiness/staircase.html:67
+msgid "Fire Exit"
+msgstr "Wyjście ewakuacyjne"
+
+#: steelbusiness/templates/steelbusiness/home.html:160
+#: steelbusiness/templates/steelbusiness/staircase.html:75
+msgid "Basement Staircase"
+msgstr "Schody do piwnicy"
+
+#: steelbusiness/views.py:9 templates/base.html:47
+msgid "Home"
+msgstr "Strona główna"
+
+#: steelbusiness/views.py:14
+msgid "About Us"
+msgstr "O nas"
+
+#: steelbusiness/views.py:19
+msgid "Our Services"
+msgstr "Nasze usługi"
+
+#: steelbusiness/views.py:24
+msgid "Staircase Design"
+msgstr "Projektowanie schodów"
+
+#: steelbusiness/views.py:29 templates/base.html:63
+msgid "Gallery"
+msgstr "Galeria"
+
+#: templates/base.html:51
+#| msgid "About Us"
+msgid "About"
+msgstr "O nas"
+
+#: templates/base.html:55
+#| msgid "Our Services"
+msgid "Services"
+msgstr "Nasze usługi"
+
+#: templates/base.html:71
+#| msgid "Contact Us"
+msgid "Contact"
+msgstr "Kontakt"
+
+#~ msgid "English"
+#~ msgstr "Angielski"
+
+#~ msgid "Mandarin"
+#~ msgstr "Mandaryński"
+
+#~ msgid "Polish"
+#~ msgstr "Polski"

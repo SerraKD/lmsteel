@@ -1,0 +1,687 @@
+# LM STAIRS
+# Copyright (C) 2025 Serra Kir Dworczak
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR serrakir@gmail, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 18:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Serra Kir Dworczak serrakir@gmail\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh-HAns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: steelbusiness/templates/steelbusiness/about.html:15
+msgid "About LM STAIRS"
+msgstr "关于 LM STAIRS"
+
+#: steelbusiness/templates/steelbusiness/about.html:17
+msgid ""
+"Founded in 1985, LM STAIRS has grown into a global leader in the\n"
+"            design and fabrication of luxury metal staircases. With "
+"headquarters\n"
+"            in London and multiple state-of-the-art production facilities, "
+"our\n"
+"            extensive teams of experienced engineers, designers, and "
+"installers\n"
+"            have delivered innovative, bespoke solutions for prestigious "
+"clients\n"
+"            worldwide."
+msgstr ""
+"LM STAIRS 成立于1985年，已发展成为豪华金属楼梯设计和制造的全球领导者。\n"
+"            总部位于伦敦，并拥有多个先进的生产设施，我们经验丰富的工程师、设"
+"计师和安装人员团队\n"
+"            为全球的知名客户提供了创新的定制解决方案。"
+
+#: steelbusiness/templates/steelbusiness/about.html:25
+msgid ""
+"Our commitment to quality, precision, and innovation is reflected in\n"
+"            every project. Using the latest 3D laser measurement technology "
+"and\n"
+"            advanced CAD systems, we create detailed fabrication drawings "
+"and\n"
+"            execute projects to the highest standards. We focus our "
+"activities\n"
+"            on London and its surrounding areas (including Westminster, "
+"Camden,\n"
+"            Kensington, Islington, and the City of London), but we operate\n"
+"            internationally and serve clients around the globe."
+msgstr ""
+"我们对质量、精确性和创新的承诺体现在每一个项目中。使用最新的3D激光测量技术"
+"和\n"
+"            先进的CAD系统，我们创建详细的制造图纸，并以最高标准执行项目。\n"
+"            我们的活动主要集中在伦敦及其周边地区（包括威斯敏斯特、卡姆登、肯"
+"辛顿、\n"
+"            伊斯灵顿和伦敦市），但我们在国际上运营，为全球客户服务。"
+
+#: steelbusiness/templates/steelbusiness/about.html:34
+msgid ""
+"At LM STAIRS, we combine traditional craftsmanship with cutting-edge\n"
+"            technology, ensuring our clients receive the finest bespoke\n"
+"            staircase solutions available."
+msgstr ""
+"在 LM STAIRS，我们将传统工艺与尖端技术相结合，确保我们的客户获得最优质的定制"
+"楼梯解决方案。"
+
+#: steelbusiness/templates/steelbusiness/about.html:38
+#: steelbusiness/views.py:39
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: steelbusiness/templates/steelbusiness/contact.html:13
+#, fuzzy
+#| msgid "Contact Us"
+msgid "Contact us"
+msgstr "联系我们"
+
+#: steelbusiness/templates/steelbusiness/contact.html:16
+msgid "For inquiries regarding our products or services, please contact us:"
+msgstr "如需咨询我们的产品或服务，请联系我们："
+
+#: steelbusiness/templates/steelbusiness/contact.html:19
+msgid "We can assist you in English, Polish, and Mandarin."
+msgstr "我们可以用英语、波兰语和普通话为您提供帮助。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:11 steelbusiness/views.py:34
+msgid "Frequently Asked Questions"
+msgstr "常见问题"
+
+#: steelbusiness/templates/steelbusiness/faq.html:13
+msgid ""
+"You can find answers to frequently askes questions\n"
+"           below."
+msgstr "您可以在下面找到常见问题的答案。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:48
+msgid "What materials are used in LM STAIRS' metal staircases?"
+msgstr "LM STAIRS 的金属楼梯使用哪些材料？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:58
+msgid ""
+"Our staircases are crafted using high-quality, durable\n"
+"                    metals such as stainless steel, aluminum, and custom "
+"alloys,\n"
+"                    ensuring longevity and a sleek, modern appearance."
+msgstr ""
+"我们的楼梯采用高质量、耐用的金属制成，如不锈钢、铝和定制合金，\n"
+"                    确保其耐用性和时尚现代的外观。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:88
+msgid ""
+"How long does the fabrication process take for a custom\n"
+"                    staircase?"
+msgstr "定制楼梯的制造过程需要多长时间？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:99
+msgid ""
+"Typically, our fabrication process takes between 4 to 6\n"
+"                    weeks from final design approval to installation, "
+"depending\n"
+"                    on the complexity and customization required."
+msgstr ""
+"通常，从最终设计批准到安装，我们的制造过程需要4到6周，\n"
+"                    具体取决于所需的复杂性和定制化程度。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:129
+msgid "Which areas do you serve?"
+msgstr "您服务哪些地区？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:139
+msgid ""
+"We primarily focus our activities on London and its\n"
+"                    surrounding areas (including Westminster, Camden,\n"
+"                    Kensington, Islington, and the City of London), but we "
+"also\n"
+"                    operate internationally, serving clients around the "
+"globe."
+msgstr ""
+"我们主要专注于伦敦及其周边地区（包括威斯敏斯特、卡姆登、肯辛顿、伊斯灵顿和伦"
+"敦市），\n"
+"                    但我们也在国际上运营，为全球客户提供服务。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:170
+msgid "Do you offer customization options for your staircases?"
+msgstr "您是否提供楼梯的定制选项？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:180
+msgid ""
+"Yes, all of our staircases are bespoke. We work closely with\n"
+"                    clients to tailor designs that meet their specific "
+"aesthetic\n"
+"                    and functional requirements."
+msgstr ""
+"是的，我们所有的楼梯都是定制的。我们与客户密切合作，\n"
+"                    以满足他们特定的美学和功能需求。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:215
+msgid "What design software do you use in your staircase projects?"
+msgstr "您在楼梯项目中使用什么设计软件？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:225
+msgid ""
+"We utilize advanced 3D CAD software to create detailed\n"
+"                    models and fabrication drawings, ensuring precision and\n"
+"                    clarity in every project."
+msgstr ""
+"我们使用先进的3D CAD软件来创建详细的模型和制作图纸，\n"
+"                    确保每个项目的精确性和清晰度。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:255
+msgid ""
+"Can you provide references or case studies of previous\n"
+"                    projects?"
+msgstr "您能提供以前项目的参考或案例研究吗？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:266
+msgid ""
+"Absolutely. We have a comprehensive portfolio of completed\n"
+"                    projects and can provide references from satisfied "
+"clients\n"
+"                    upon request."
+msgstr ""
+"当然可以。我们有一个完整的已完成项目组合，\n"
+"                    并可以根据要求提供满意客户的参考。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:296
+msgid ""
+"What quality control measures are in place during\n"
+"                    production?"
+msgstr "在生产过程中有哪些质量控制措施？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:307
+msgid ""
+"Our production process includes rigorous quality control\n"
+"                    checks at every stage, ensuring that every staircase "
+"meets\n"
+"                    the highest standards of durability and design."
+msgstr ""
+"我们的生产过程在每个阶段都包括严格的质量控制检查，\n"
+"                    确保每个楼梯都符合最高的耐用性和设计标准。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:337
+msgid ""
+"How do you ensure the safety and durability of your\n"
+"                    staircases?"
+msgstr "您如何确保楼梯的安全性和耐用性？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:348
+msgid ""
+"Our designs adhere to international safety standards and\n"
+"                    building codes, and we use premium materials along with\n"
+"                    advanced fabrication techniques to ensure long-lasting\n"
+"                    performance."
+msgstr ""
+"我们的设计遵循国际安全标准和建筑规范，\n"
+"                    我们使用优质材料和先进的制造技术，\n"
+"                    以确保持久的性能。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:384
+msgid ""
+"What is your process for handling design changes during\n"
+"                    production?"
+msgstr "您在生产过程中如何处理设计变更？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:395
+msgid ""
+"We maintain open communication with our clients; any\n"
+"                    requested changes are thoroughly evaluated and "
+"incorporated\n"
+"                    into the project with minimal disruption to the timeline."
+msgstr ""
+"我们与客户保持开放的沟通；任何请求的更改都会被彻底评估，\n"
+"                    并在尽量不影响时间表的情况下纳入项目中。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:425
+msgid ""
+"Are your staircases compliant with local building codes and\n"
+"                    regulations?"
+msgstr "您的楼梯是否符合当地建筑规范和法规？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:436
+msgid ""
+"Yes, all of our designs meet or exceed local building codes\n"
+"                    and regulations, ensuring both safety and compliance."
+msgstr ""
+"是的，我们所有的设计都符合或超过当地建筑规范和法规，\n"
+"                    确保安全性和合规性。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:465
+msgid "How do you manage international orders?"
+msgstr "您如何管理国际订单？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:475
+msgid ""
+"We have a dedicated international sales team that\n"
+"                    coordinates logistics, shipping, and installation to "
+"provide\n"
+"                    a seamless experience for global clients."
+msgstr ""
+"我们有专门的国际销售团队，负责协调物流、运输和安装，\n"
+"                    为全球客户提供无缝的体验。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:505
+msgid "What kind of maintenance do your staircases require?"
+msgstr "您的楼梯需要什么样的维护？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:515
+msgid ""
+"Our staircases are designed to be low-maintenance; routine\n"
+"                    cleaning and periodic inspections are generally "
+"sufficient\n"
+"                    to keep them in excellent condition."
+msgstr "我们的楼梯设计为低维护；常规清洁和定期检查通常足以保持其良好状态。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:550
+msgid ""
+"Can you install staircases in both commercial and\n"
+"                    residential settings?"
+msgstr "您能否在商业和住宅环境中安装楼梯？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:561
+msgid ""
+"Yes, our solutions are versatile and can be fully customized\n"
+"                    for both commercial and residential projects."
+msgstr "是的，我们的解决方案多样化，可以完全定制以适应商业和住宅项目。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:590
+msgid "Do you provide on-site consultations and measurements?"
+msgstr "您是否提供现场咨询和测量服务？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:600
+msgid ""
+"Yes, our experts are available for on-site consultations and\n"
+"                    precise measurements to ensure every project is "
+"perfectly\n"
+"                    tailored to the space."
+msgstr ""
+"是的，我们的专家可以进行现场咨询和精确测量，\n"
+"                    以确保每个项目都能完美适应空间。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:630
+msgid ""
+"How do you integrate modern design trends into your\n"
+"                    staircases?"
+msgstr "您如何将现代设计趋势融入到您的楼梯中？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:641
+msgid ""
+"We continuously update our design portfolio by incorporating\n"
+"                    the latest trends and innovative techniques, ensuring "
+"our\n"
+"                    staircases remain both timeless and contemporary."
+msgstr ""
+"我们不断更新我们的设计组合，融入最新的趋势和创新技术，\n"
+"                    确保我们的楼梯既经典又现代。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:671
+msgid ""
+" What types of finishes are available for your metal\n"
+"                    staircases?"
+msgstr "您的金属楼梯有哪些可用的表面处理类型？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:682
+msgid ""
+"We offer a wide range of finishes including polished,\n"
+"                    brushed, and custom color options to complement any "
+"interior\n"
+"                    or exterior design."
+msgstr ""
+"我们提供多种表面处理，包括抛光、拉丝和定制颜色选项，\n"
+"                    以配合任何室内或室外设计。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:729
+msgid "How do you address noise and vibration in staircase installations?"
+msgstr "您如何解决楼梯安装中的噪音和振动问题？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:739
+msgid ""
+"We employ specialized materials and engineering techniques to minimize noise "
+"and vibration, ensuring a quiet and stable installation."
+msgstr ""
+"我们采用专门的材料和工程技术来最大限度地减少噪音和振动，\n"
+"                    确保安静和稳定的安装。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:767
+msgid "What is the typical lead time from design to installation?"
+msgstr "从设计到安装的典型交付时间是多少？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:777
+msgid ""
+"Generally, lead times range from 4 to 6 weeks, although highly complex or "
+"customized projects may require additional time."
+msgstr "通常，交付时间为4到6周，尽管高度复杂或定制的项目可能需要额外的时间。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:805
+msgid "Do you offer financing or payment plans for large projects?"
+msgstr "您是否为大型项目提供融资或付款计划？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:815
+msgid ""
+"Yes, we understand the scale of investment required for custom projects and "
+"offer flexible financing options to accommodate our clients' needs."
+msgstr ""
+"是的，我们了解定制项目所需的投资规模，并提供灵活的融资选项以满足客户的需求。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:843
+msgid "What certifications or industry standards do your products meet?"
+msgstr "您的产品符合哪些认证或行业标准？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:853
+msgid ""
+"Our products comply with numerous industry standards and certifications, "
+"including ISO and local building codes, guaranteeing both quality and safety."
+msgstr ""
+"我们的产品符合众多行业标准和认证，包括ISO和当地建筑规范，\n"
+"                    保证质量和安全。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:886
+msgid "What role does technology play in your production process?"
+msgstr "技术在您的生产过程中扮演什么角色？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:896
+msgid ""
+"Technology is at the core of our operations—using 3D laser measurements, "
+"advanced CAD modeling, and state-of-the-art fabrication machinery to ensure "
+"precision and quality."
+msgstr ""
+"技术是我们运营的核心——使用3D激光测量、先进的CAD建模和最先进的制造机械，\n"
+"                    以确保精确性和质量。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:924
+msgid "What is the warranty policy for your metal staircases?"
+msgstr "您的金属楼梯的保修政策是什么？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:934
+msgid ""
+"We offer comprehensive warranties covering both materials and workmanship, "
+"providing peace of mind for our clients."
+msgstr "我们提供涵盖材料和工艺的全面保修，为客户提供安心保障。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:962
+msgid "Can you retrofit or upgrade existing staircase structures?"
+msgstr "您能否改造或升级现有的楼梯结构？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:972
+msgid ""
+"Yes, we provide services to retrofit or upgrade existing staircases, "
+"enhancing both functionality and design."
+msgstr ""
+"是的，我们提供改造或升级现有楼梯的服务，\n"
+"                    提升功能性和设计。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1000
+msgid ""
+"What are the benefits of choosing a bespoke metal staircase over a standard "
+"solution?"
+msgstr "选择定制金属楼梯而非标准解决方案的好处是什么？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1010
+msgid ""
+"Bespoke staircases offer tailored design, superior quality, and complete "
+"customization to match any interior or exterior environment, making them a "
+"unique statement piece."
+msgstr ""
+"定制楼梯提供量身定制的设计、卓越的质量和完全的定制化，\n"
+"                    以匹配任何室内或室外环境，使其成为独特的陈述作品。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1043
+msgid "Do you collaborate with architects and interior designers?"
+msgstr "您是否与建筑师和室内设计师合作？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1053
+msgid ""
+"Yes, we work closely with architects, interior designers, and other "
+"professionals to develop integrated solutions that enhance any space."
+msgstr ""
+"是的，我们与建筑师、室内设计师和其他专业人士密切合作，\n"
+"                    开发增强任何空间的综合解决方案。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1081
+msgid "How is the cost of a custom staircase determined?"
+msgstr "定制楼梯的成本是如何确定的？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1091
+msgid ""
+"Costs depend on design complexity, materials, and the scope of the project. "
+"We provide detailed quotations after thorough consultations and measurements."
+msgstr ""
+"成本取决于设计复杂性、材料和项目范围。\n"
+"                    我们在经过详细咨询和测量后提供详细报价。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1119
+msgid "What payment methods do you accept?"
+msgstr "您接受哪些付款方式？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1129
+msgid ""
+"We accept various payment methods including bank transfers, credit cards, "
+"and secure online payment options."
+msgstr "我们接受多种付款方式，包括银行转账、信用卡和安全的在线支付选项。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1157
+msgid "Are there any financing options available?"
+msgstr "是否有可用的融资选项？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1167
+msgid ""
+"Yes, we offer flexible financing plans to help our clients manage the "
+"investment required for custom staircase projects."
+msgstr "是的，我们提供灵活的融资计划，以帮助客户管理定制楼梯项目所需的投资。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1200
+msgid "Can you provide 3D visualizations or mock-ups before fabrication?"
+msgstr "您能否在生产前提供3D可视化或模型？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1210
+msgid ""
+"Absolutely. We offer detailed 3D visualizations and mock-ups, allowing "
+"clients to review and refine the design before production begins."
+msgstr ""
+"当然可以。我们提供详细的3D可视化和模型，\n"
+"                    让客户在生产开始前审查和完善设计。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1238
+msgid "What factors influence the final design of a staircase?"
+msgstr "哪些因素会影响楼梯的最终设计？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1248
+msgid ""
+"Key factors include available space, desired aesthetics, structural "
+"requirements, and client specifications. We take all of these into account "
+"to create a harmonious design."
+msgstr ""
+"关键因素包括可用空间、期望的美学效果、结构要求和客户规格。\n"
+"                    我们会考虑所有这些因素，以创建和谐的设计。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1276
+msgid "How do you ensure the durability of your products in various climates?"
+msgstr "您如何确保产品在各种气候条件下的耐用性？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1286
+msgid ""
+"We select premium, corrosion-resistant materials and employ advanced "
+"finishing techniques to ensure our staircases withstand diverse "
+"environmental conditions."
+msgstr ""
+"我们选择优质的耐腐蚀材料，并采用先进的表面处理技术，\n"
+"                    以确保我们的楼梯能够承受多种环境条件。"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1314
+msgid "What sets LM STAIRS apart from other staircase manufacturers?"
+msgstr "是什么让LM STAIRS与其他楼梯制造商不同？"
+
+#: steelbusiness/templates/steelbusiness/faq.html:1324
+msgid ""
+"Our unique blend of traditional craftsmanship and cutting-edge technology, "
+"along with bespoke design options and exceptional customer service, "
+"distinguishes us as an industry leader."
+msgstr ""
+"我们将传统工艺与尖端技术独特结合，\n"
+"                    加上定制设计选项和卓越的客户服务，\n"
+"                    使我们成为行业的领导者。"
+
+#: steelbusiness/templates/steelbusiness/home.html:52
+#: steelbusiness/templates/steelbusiness/services.html:16
+msgid "Site Survey and Measurements"
+msgstr "现场调查和测量"
+
+#: steelbusiness/templates/steelbusiness/home.html:53
+#: steelbusiness/templates/steelbusiness/services.html:17
+msgid ""
+"We conduct thorough on‑site surveys and measurements using the latest "
+"measuring devices and 3D lasers."
+msgstr "我们使用最新的测量设备和3D激光进行全面的现场调查和测量。"
+
+#: steelbusiness/templates/steelbusiness/home.html:53
+#: steelbusiness/templates/steelbusiness/services.html:17
+msgid "We manage every phase from initial assessment to final reporting."
+msgstr "我们管理从初步评估到最终报告的每个阶段。"
+
+#: steelbusiness/templates/steelbusiness/home.html:61
+#: steelbusiness/templates/steelbusiness/services.html:25
+msgid "Design and Calculations"
+msgstr "设计和计算"
+
+#: steelbusiness/templates/steelbusiness/home.html:62
+#: steelbusiness/templates/steelbusiness/services.html:26
+msgid ""
+"Our designers use 3D CAD and prepare a complete set of drawings for project "
+"approval before production.Every detail is planned comprehensively."
+msgstr ""
+"我们的设计师使用3D CAD，并在生产前准备完整的图纸集以供项目批准。\n"
+"每个细节都经过全面规划。"
+
+#: steelbusiness/templates/steelbusiness/home.html:70
+#: steelbusiness/templates/steelbusiness/services.html:34
+msgid "Fabrication Drawings"
+msgstr "制作图纸"
+
+#: steelbusiness/templates/steelbusiness/home.html:71
+#: steelbusiness/templates/steelbusiness/services.html:35
+msgid ""
+"Detailed technical drawings to ensure flawless production.We cover every "
+"aspect from concept to manufacturing."
+msgstr ""
+"详细的技术图纸以确保无瑕疵的生产。\n"
+"我们涵盖从概念到制造的每个方面。"
+
+#: steelbusiness/templates/steelbusiness/home.html:79
+#: steelbusiness/templates/steelbusiness/services.html:43
+msgid "Fabrication and Installation"
+msgstr "制作和安装"
+
+#: steelbusiness/templates/steelbusiness/home.html:80
+#: steelbusiness/templates/steelbusiness/services.html:44
+msgid ""
+"Expert fabrication and seamless installation by our skilled teams.We handle "
+"the complete process from production to final installation."
+msgstr ""
+"由我们熟练的团队进行专业制作和无缝安装。\n"
+"我们处理从生产到最终安装的整个过程。"
+
+#: steelbusiness/templates/steelbusiness/home.html:94
+#: steelbusiness/templates/steelbusiness/home.html:95
+#: steelbusiness/templates/steelbusiness/staircase.html:10
+#: templates/base.html:59
+msgid "Staircase Types"
+msgstr "楼梯类型"
+
+#: steelbusiness/templates/steelbusiness/home.html:96
+#: steelbusiness/templates/steelbusiness/staircase.html:11
+msgid ""
+"The examples below represent some of the staircase types we produce.With our "
+"extensive experience, we also create custom, non-standard designs tailored "
+"to your unique requirements."
+msgstr ""
+"以下示例代表我们生产的一些楼梯类型。凭借我们丰富的经验，我们还可以根据您的独"
+"特需求定制非标准设计。"
+
+#: steelbusiness/templates/steelbusiness/home.html:104
+#: steelbusiness/templates/steelbusiness/staircase.html:19
+msgid "Spiral Staircase"
+msgstr "螺旋楼梯"
+
+#: steelbusiness/templates/steelbusiness/home.html:112
+#: steelbusiness/templates/steelbusiness/staircase.html:27
+msgid "Curved Staircase"
+msgstr "弯曲楼梯"
+
+#: steelbusiness/templates/steelbusiness/home.html:120
+#: steelbusiness/templates/steelbusiness/staircase.html:35
+msgid "Single Central Stringer"
+msgstr "单中心梁"
+
+#: steelbusiness/templates/steelbusiness/home.html:128
+#: steelbusiness/templates/steelbusiness/staircase.html:43
+msgid "Straight Staircase"
+msgstr "直楼梯"
+
+#: steelbusiness/templates/steelbusiness/home.html:136
+#: steelbusiness/templates/steelbusiness/staircase.html:51
+msgid "Exterior Staircase"
+msgstr "外部楼梯"
+
+#: steelbusiness/templates/steelbusiness/home.html:144
+#: steelbusiness/templates/steelbusiness/staircase.html:59
+msgid "Space Saving"
+msgstr "节省空间"
+
+#: steelbusiness/templates/steelbusiness/home.html:152
+#: steelbusiness/templates/steelbusiness/staircase.html:67
+msgid "Fire Exit"
+msgstr "消防出口"
+
+#: steelbusiness/templates/steelbusiness/home.html:160
+#: steelbusiness/templates/steelbusiness/staircase.html:75
+msgid "Basement Staircase"
+msgstr "地下室楼梯"
+
+#: steelbusiness/views.py:9 templates/base.html:47
+msgid "Home"
+msgstr "首页"
+
+#: steelbusiness/views.py:14
+msgid "About Us"
+msgstr "关于我们"
+
+#: steelbusiness/views.py:19
+msgid "Our Services"
+msgstr "我们的服务"
+
+#: steelbusiness/views.py:24
+msgid "Staircase Design"
+msgstr "楼梯设计"
+
+#: steelbusiness/views.py:29 templates/base.html:63
+msgid "Gallery"
+msgstr "画廊"
+
+#: templates/base.html:51
+#| msgid "About Us"
+msgid "About"
+msgstr "关于我们"
+
+#: templates/base.html:55
+#| msgid "Our Services"
+msgid "Services"
+msgstr "我们的服务"
+
+#: templates/base.html:71
+#| msgid "Contact Us"
+msgid "Contact"
+msgstr "联系我们"
+
+#~ msgid "English"
+#~ msgstr "英语"
+
+#~ msgid "Mandarin"
+#~ msgstr "普通话"
+
+#~ msgid "Polish"
+#~ msgstr "波兰语"
