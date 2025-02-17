@@ -123,7 +123,7 @@ USE_TZ = True
 LANGUAGES = [
     ('en', 'English'),
     ('pl', 'Polish'),
-    ('zh-Hans', 'Mandarin'),
+    ('zh-HAns', 'Mandarin'),
 ]
 
 
